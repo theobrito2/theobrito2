@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Theo 👋
 
-<!--
-**theobrito2/theobrito2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at the University of São Paulo (USP), working on frontend development with React and Next.js and increasingly interested in machine learning.
 
-Here are some ideas to get you started:
+## 🔭 What I'm up to
+- Building web interfaces with React and Next.js
+- Exploring machine learning with Python
+- Learning C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+
+## 🎮 Outside of code
+Anime, Pokémon, and games in general.
+
+## 📫 Get in touch
+[LinkedIn](https://www.linkedin.com/in/theo-djrdjrjan-brito) · [email](theobrito2@gmail.com)
