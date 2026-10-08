@@ -18,4 +18,4 @@ Information Systems student at the University of São Paulo (USP), working on fr
 Anime, Pokémon, and games in general.
 
 ## 📫 Get in touch
-[LinkedIn](https://www.linkedin.com/in/theo-djrdjrjan-brito) · [email](theobrito2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/theo-djrdjrjan-brito) · [Email](mailto:theobrito2@gmail.com)
